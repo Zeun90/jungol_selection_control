@@ -78,3 +78,13 @@ Obesity
 ```
 2 years later
 ```
+---
+#### [4] 복싱체급은 몸무게가<br>50.80kg 이하를 Flyweight,<br>61.23kg 이하를 Lightweight,<br>72.57kg 이하를 Middleweight,<br>88.45kg 이하를 Cruiserweight,<br>88.45kg 초과를 Heavyweight<br>라고 하자.<br>몸무게를 입력받아 체급을 출력하는 프로그램을 작성하시오.
+입력
+```
+87.3
+```
+출력
+```
+Cruiserweight
+```
