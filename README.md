@@ -141,3 +141,13 @@ F 15
 ```
 GIRL
 ```
+---
+#### [7] 영문 대문자를 입력받아<br>'A'이면 “Excellent”,<br>'B'이면 “Good”,<br>'C'이면 “Usually”,<br>'D'이면 “Effort”,<br>'F'이면 “Failure”,<br>그 외 문자이면 “error” 라고 출력하는 프로그램을 작성하시오.
+입력
+```
+B
+```
+출력
+```
+Good
+```
